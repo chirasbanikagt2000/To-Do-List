@@ -1,6 +1,6 @@
+After  downloading the files in your device open them in the vs code
 
-
-In the project directory, you can run:
+In the terminal, you can run:
 
 ### `npm start`
 
